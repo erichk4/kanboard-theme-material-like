@@ -5,6 +5,7 @@ steps to use it this theme:
 - at first install and configure phsteffen's plugin https://github.com/phsteffen/kanboard-themeplus
 - copy material.css to /Themeplus/Css
 - copy kanboard_logo.png to /Themeplus/Img
+- update your config.php (look at config.material.sample.php)
 
 # Screenshots
 Dashboard:

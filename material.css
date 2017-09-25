@@ -349,6 +349,15 @@ form
 	padding:20px
 }
 
+header {
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #dedede;
+}
+
 header .menus-container
 {
 	width:10%;
@@ -846,7 +855,7 @@ table td,table th
 	border:1px solid #e5e5e5;
 	box-shadow:0 1px 1px rgba(0,0,0,.04);
 	margin-top:15px;
-	margin-bottom:10px
+	margin-bottom:5px
 }
 
 .page-header:first-child

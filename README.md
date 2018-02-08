@@ -1,7 +1,7 @@
 # kanboard-theme-material-like
 theme for kanboard (material like)
 
-steps to use it this theme:
+steps to use this theme:
 - at first install and configure phsteffen's plugin https://github.com/phsteffen/kanboard-themeplus
 - copy material.css to /Themeplus/Css
 - copy kanboard_logo.png to /Themeplus/Img
